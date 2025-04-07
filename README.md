@@ -1,4 +1,4 @@
-# A/B Testing Conversion Insights for Sales
+# A/B Testing Conversion and Hypothesis Testing Insights for Sales
 
 This Jupyter Notebook provides an in-depth analysis of user behavior and conversion rates for Bluetooth speaker sales using A/B testing methodologies. It aims to generate actionable insights that can drive business decisions and optimize marketing strategies.
 
