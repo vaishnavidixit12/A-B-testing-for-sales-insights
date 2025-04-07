@@ -22,6 +22,7 @@ This dataset includes data from **30,000 user sessions**, featuring both returni
 The dataset also includes user-specific details, session engagement, product purchases, and payment methods, providing a comprehensive view of how website features and user characteristics influence conversions.
 
 ### Columns
+Dataset Available [Here](https://www.kaggle.com/datasets/sandeep1080/bassburst)
 
 - **user_id**: Unique identifier for each visitor  
 - **session_id**: Unique identifier for each session or visit  
